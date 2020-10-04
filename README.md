@@ -9,7 +9,7 @@ This is a simple implementation of Conway’s Game of Life in python3. The sourc
 
 ## Getting started
 
-Because this is just a small educational script, I have chosen not to distribute it on PyPI. The only dependencie is `matplotlib`, which can be installed easily via `pip`:
+The only dependencie is `matplotlib`, which can be installed easily via `pip`:
 
 ```bash
 pip3 install matplotlib
