@@ -1,7 +1,6 @@
 import random
 from time import sleep
 import matplotlib.pyplot as plt
-sleep(5)
 
 def make2dArray(cols,rows):
     return [[0 for i in range(cols)] for j in range(rows)]
