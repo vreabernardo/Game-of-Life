@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=40% src="https://github.com/vreaw/Game-of-Life/blob/main/media/life.gif">
+    <img width=50% src="https://github.com/vreaw/Game-of-Life/blob/main/media/life.gif">
 </p>
 
 
